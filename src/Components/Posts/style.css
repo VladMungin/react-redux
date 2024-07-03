@@ -1,0 +1,14 @@
+.post {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 450px;
+}
+
+.post button {
+	padding: 4px 8px;
+	background-color: transparent;
+	border: 1px solid #202020;
+	border-radius: 5px;
+	cursor: pointer;
+}
